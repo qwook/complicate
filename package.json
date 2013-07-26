@@ -1,0 +1,15 @@
+{
+    "name": "complicate",
+    "author": "qwook",
+    "version": "0.0.1",
+    "preferGlobal": true,
+    "description": "Write, Complicate, Deploy.",
+    "bin": {
+        "complicate": "./bin/complicate"
+    },
+    "dependencies": {
+        "less": "1.x.x",
+        "jade": "0.33.x"
+    },
+    "license": "MIT"
+}
